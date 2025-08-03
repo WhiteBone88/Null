@@ -62,6 +62,22 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="70348a7f-132d-4d5c-ba67-19033901eb10">
+    <name>Тестовый</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тестовый</value>
+    </synonym>
+    <comment>// для проверки переноса в Гит</comment>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="736ae4f6-e2d3-4af3-94be-0c5566973a34">
     <producedTypes>
       <objectType typeId="1f206a60-833a-4fdf-bd12-6880db9bac66" valueTypeId="3c3d2c88-fd7b-4675-9363-5d41321b1a14"/>
